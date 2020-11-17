@@ -6,7 +6,7 @@
   "private": true,
   "scripts": {
     "test": "lerna run test --scope={common,server}",
-    "new-version": "lerna version",
+    "new-version": "lerna version --conventional-commits --yes",
     "diff": "lerna diff"
   },
   "devDependencies": {
