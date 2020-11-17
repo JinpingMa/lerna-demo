@@ -7,7 +7,7 @@
   "scripts": {
     "test": "lerna run test --scope={common,server}",
     "new-version": "lerna version --conventional-commits --yes",
-    "diff": "learn diff"
+    "diff": "lerna diff"
   },
   "devDependencies": {
     "lerna": "^3.22.1"
