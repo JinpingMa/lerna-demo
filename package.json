@@ -12,15 +12,15 @@
   "husky": {
     "hooks": {
       "pre-commit": "lint-staged",
-      "commit-msg": "commitlint - E HUSKY_GIT_PARAMS"
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
     }
   },
   "lint-staged": {
-    "packages/common/**/*.js": [
+    "packages/common/**/*.{js,vue}": [
       "lerna run --scope common lint -- --fix",
       "git add"
     ],
-    "packages/server/**/*.js": [
+    "packages/server/**/*.{js,vue}": [
       "lerna run --scope server lint -- --fix",
       "git add"
     ]
