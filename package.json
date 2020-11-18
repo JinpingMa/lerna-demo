@@ -17,11 +17,11 @@
   },
   "lint-staged": {
     "packages/common/**/*.{js,vue}": [
-      "lerna run --scope common lint -- --fix",
+      "lerna run --scope common lint --fix",
       "git add"
     ],
     "packages/server/**/*.{js,vue}": [
-      "lerna run --scope server lint -- --fix",
+      "lerna run --scope server lint --fix",
       "git add"
     ]
   },
