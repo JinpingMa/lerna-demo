@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.4-beta.3](https://github.com/JinpingMa/lerna-demo/compare/v1.1.4-beta.2...v1.1.4-beta.3) (2021-01-30)
+
+
+### Bug Fixes
+
+* fix `toTree` function ([c564ab5](https://github.com/JinpingMa/lerna-demo/commit/c564ab5a6fd462dbfcafd045364fe818d1a7b454))
+
+
+
+
+
 ## [1.1.4-beta.2](https://github.com/JinpingMa/lerna-demo/compare/v1.1.4-beta.1...v1.1.4-beta.2) (2021-01-30)
 
 
