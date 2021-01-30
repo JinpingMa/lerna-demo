@@ -1,5 +1,7 @@
 # Lerna demo
 
+[![lerna](https://img.shields.io/badge/maintained%20with-lerna-cc00ff.svg)](https://lerna.js.org/)
+
 学习`Lerna`的示例项目
 
 # 示范的命令有`version`,`test`,`diff`
