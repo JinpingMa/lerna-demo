@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.4](https://github.com/JinpingMa/lerna-demo/compare/v1.1.3-beta.1...v1.1.4) (2021-01-30)
+
+**Note:** Version bump only for package lerna-demo
+
+
+
+
+
 ## [1.1.3-beta.1](https://github.com/JinpingMa/lerna-demo/compare/v1.1.3-beta.0...v1.1.3-beta.1) (2021-01-30)
 
 **Note:** Version bump only for package lerna-demo
