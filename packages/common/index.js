@@ -13,7 +13,7 @@ console.log('如何显示提交信息。。。')
 
 function toTree () {
   // test function
-  return []
+  return null
 }
 
 
